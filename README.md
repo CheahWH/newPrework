@@ -4,7 +4,7 @@
 
 Submitted by: **Wen Hui Cheah**
 
-Time spent: **-** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## User Stories
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Wen Hui Cheah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
